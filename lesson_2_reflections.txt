@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 they become one. any differences are merged into the branch.
 they are shown reconnecting into one branch because they are merging together and the "master" one is the one that is continued and is the head. while the other branch is stopped.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It can save a lot if time. it will highlight the differences of each file and where for each file. 
