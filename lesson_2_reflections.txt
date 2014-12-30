@@ -13,3 +13,7 @@ once they are in the staging area before you commit just go through and see if t
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 working on adding a new feature and unsure of the outcome. branching would help so i don't use the master. or if i wanted to change the language and i need to make a new branch. branch help by keeping everything organized,labeled(the branch) and seperate from other branches.
+
+How do the diagrams help you visualize the branch structure?
+
+make it easier to know if a branch will be seen by git log on the current branch. also can see when a new branch is created or merged etc.
