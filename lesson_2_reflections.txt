@@ -17,3 +17,8 @@ working on adding a new feature and unsure of the outcome. branching would help 
 How do the diagrams help you visualize the branch structure?
 
 make it easier to know if a branch will be seen by git log on the current branch. also can see when a new branch is created or merged etc.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+they become one. any differences are merged into the branch.
+they are shown reconnecting into one branch because they are merging together and the "master" one is the one that is continued and is the head. while the other branch is stopped.
