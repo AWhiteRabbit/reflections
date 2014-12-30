@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    i didn't have to look at any of the file that wasn't changed. saves a lot of time.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I can look back and see what was causing trouble or taking up too much time. Find an easier way, have the experience, or do it differently. not to mention if something is scrapped after a certain point i don't have to start over.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pro - 
+		most things will be finished or just about to be started.
+		have control to keep version numbers down.
+		easier to read.
+	Con -
+		takes longer to do.
+		may forget something and the commit and have to do more work than necessary.
+		or forget to commit and lose a lot of work.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Those files may be connected in some way..ie. html and css files. and better suited for project based changes. google docs prefers each file seperately because that is the audience they are expecting would use it..ie.. conference paper or many single documents.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    one shows when things were changed and what files in the repository were changed and the other what differences were made in those files like if anything was taken away or added.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    then you could always just checkoutthe last known "good" version or a few versions back and check out log changes and then diff changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    making a github for my projects and keep up on my portfolio.
