@@ -1,3 +1,6 @@
 1. When would you want to create a remote repository rather than keeping all your work local?
   When i am ready to put my commit public. This will allow it it be updated and accessible 
   to anyone that is viewing the branch. Also can allow me to merge it with another branch.
+  
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  I do not want my files to get changed before i do changes and commits. 
