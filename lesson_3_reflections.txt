@@ -10,3 +10,5 @@
   Branch is the repository where you files are kept (works locally and github).
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
   So you can prevent potential conflicts and diff check in case there is a problem.
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	You can meet in person and exchange files that way. If you are not geographically close you can use cloud hosting and post to there. or email if files are small. It would be easier to exchange ideas and explain your process in person but you may forget some things to bring along(wrong hard drive). cloud hosting would make exchanging files easier but not sure how it would keep track of all versions or any revisions that need to go back a few steps.
