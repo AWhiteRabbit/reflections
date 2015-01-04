@@ -12,3 +12,5 @@
   So you can prevent potential conflicts and diff check in case there is a problem.
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	You can meet in person and exchange files that way. If you are not geographically close you can use cloud hosting and post to there. or email if files are small. It would be easier to exchange ideas and explain your process in person but you may forget some things to bring along(wrong hard drive). cloud hosting would make exchanging files easier but not sure how it would keep track of all versions or any revisions that need to go back a few steps.
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	To experiment or change the branch details. Keeping a single master branch lets us simple modify the branch and push/pull commits easily. it also makes it hard to make changes or experiment. forking will let you change code and experiment without messing with the last known "good" branch. Although it will take more time to push changes back to the master branch.
